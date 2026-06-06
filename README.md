@@ -9,3 +9,13 @@ This fork was made in part to support The Pink Fluffy Unicorns [83] vision devel
 
 > [!NOTE]
 > If you are looking for the per function documentation, check it out [right here](https://github.com/Turtlerock0010/MiniFRC-HuskyLens-Lib/blob/master/HUSKYLENS%20Arduino%20API.md)! But stay tuned for a simpler documentation page in the future! 👀
+
+## Installation
+1. From this repository, go to [the releases page](https://github.com/Turtlerock0010/MiniFRC-HuskyLens-Lib/releases)
+2. Open the most recent release
+3. Download the first file (`MiniFRC-HuskyLens-Lib.zip`)
+4. Open Arduino IDE
+5. Go to the `Sketch` tab on the app (usually either on the top of the screen (MacOS), or featured just below the top bar (Windows))
+6. From `Sketch` tab, go to `Include Library` --> `Add .ZIP Library...`
+7. In your file manager, select the library zip file (Should be called `MiniFRC-HuskyLens-Lib.zip`)
+8. Enjoy! Thank you for using my fork! 😁
