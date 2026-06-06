@@ -6,3 +6,6 @@
 Welcome to MiniFRC HuskyLens Lib, a fork of the original [HUSKYLENSArduino](https://github.com/HuskyLens/HUSKYLENSArduino) repository! This library allows for anyone in MiniFRC and general robotics to work with the HuskyLens for vision applications such as and not limited to: Object tracking, color tracking, line tracking, and apriltag tracking!
 
 This fork was made in part to support The Pink Fluffy Unicorns [83] vision development, but also to help maintain, update, and support other teams looking into using the HuskyLens for MiniFRC as the original repository seems to be abandoned. So if you have any questions, additions, or ideas, please voice your concerns!
+
+> [!NOTE]
+> If you are looking for the per function documentation, check it out [right here](https://github.com/Turtlerock0010/MiniFRC-HuskyLens-Lib/blob/master/HUSKYLENS%20Arduino%20API.md)!
